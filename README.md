@@ -20,8 +20,8 @@
 ![JavaScript](https://img.shields.io/badge/-JavaScript-141a5e?style=for-the-badge&logo=JavaScript&logoColor-47C5FB)
 ![TypeScript](https://img.shields.io/badge/TYPESCRIPT-141a5e.svg?style=for-the-badge&logo=Typescript&logoColor=white)
 ![React](https://img.shields.io/badge/REACT-141a5e.svg?style=for-the-badge&logo=react&logoColor=lightblue)
-![Redux](https://img.shields.io/badge/REDUX-141a5e.svg?style=for-the-badge&logo=redux&logoColor=pink)
-![SCSS](https://img.shields.io/badge/SASS-141a5e.svg?style=for-the-badge&logo=SASS&logoColor=pink)
+![Redux](https://img.shields.io/badge/REDUX-141a5e.svg?style=for-the-badge&logo=redux&logoColor=white)
+![SCSS](https://img.shields.io/badge/SCSS-141a5e.svg?style=for-the-badge&logo=SASS&logoColor=pink)
 
 ![codewars](https://www.codewars.com/users/mutaev/badges/large)
 
