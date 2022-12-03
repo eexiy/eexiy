@@ -1,4 +1,4 @@
-![Header](https://github.com/eexiy/eexiy/blob/main/assets/back.gif)
+![Header](https://github.com/eexiy/eexiy/blob/master/assets/back.gif)
 
 
 ## Frontend Developer.
