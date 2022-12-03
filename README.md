@@ -23,7 +23,7 @@
 ![Redux](https://img.shields.io/badge/REDUX-141a5e.svg?style=for-the-badge&logo=redux&logoColor=white)
 ![SCSS](https://img.shields.io/badge/SCSS-141a5e.svg?style=for-the-badge&logo=SASS&logoColor=pink)
 
-![codewars](https://www.codewars.com/users/mutaev/badges/large)
+![codewars](https://www.codewars.com/users/eexiy/badges/large)
 
                     
 
